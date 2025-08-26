@@ -29,10 +29,9 @@ This project replicates the look and feel of Netflix’s homepage, including her
 
 ---
 
-## 📸 Preview
-![Netflix Clone Preview](assets/images/bg.jpg)
 
----
+
+
 
 ## 🔧 How to Run
 1. Clone the repository:
